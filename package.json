@@ -19,7 +19,15 @@
   },
   "main": "app.js",
   "devDependencies": {},
-  "author": "",
-  "license": "ISC",
+  "author": "Christoph Barger",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chriis2B/gov-crawler-at-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Chriis2B/gov-crawler-at-nodejs/issues"
+  },
+  "homepage": "https://github.com/Chriis2B/gov-crawler-at-nodejs#readme",
   "description": ""
 }
